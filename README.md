@@ -1,5 +1,5 @@
 # Documentation For Interview Question 2
->This document is written by Zhang Zhiyu, just for a test and  the interview of Shenzhen SinoSmart Digital Tech. Co. LTD.
+>This document is written by @weiweiever, just for a test and  the interview of Shenzhen SinoSmart Digital Tech. Co. LTD.
 ## The original question
 Write a program for displaying the ten most frequent words in a file such that your program should be efficient in all complexity measures. Require C/C++.
 
